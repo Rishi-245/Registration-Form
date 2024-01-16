@@ -1,6 +1,5 @@
 #Registration Form Using GUI System
 #Programmer: Rishi Patel
-#Date: 23/06/2021
 #Version: 1.0
 
 #Important Functions Imported
