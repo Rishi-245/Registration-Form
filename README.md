@@ -1,1 +1,4 @@
 # Registration-Form
+
+## Description
+This Python program implements a graphical user interface (GUI) for a registration form. Utilizing the Tkinter library, the system creates a window with input fields for full name, email, gender, country selection, and language preferences. The form includes error-checking functionalities, ensuring valid entries for each field. The user is required to provide a non-empty full name, a properly formatted email with specific constraints, select a gender, choose a country, and pick at least one language. The submission button triggers a validation process, displaying error messages if any criteria are not met. Upon successful completion, a confirmation message is shown, and the program terminates. The GUI design provides a straightforward and user-friendly interface for registration.
